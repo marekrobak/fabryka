@@ -1,1 +1,2 @@
 ala ma kota
+ZMIANA DO PULL REQUESTA
